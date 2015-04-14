@@ -21,10 +21,14 @@ Multiple input devices connecting to the same computer.
 - 
 
 
-
 # Hardware
 
 - extra headphone port with invitation to listen in
 - local cafe radio broadcast, invite people to listen with you 
 - local area analog radio, give people receivers 
 - public screen signal broadcasting
+
+
+
+## LED Text display for sharing what you are up to
+http://embedded-lab.com/blog/?p=9255
